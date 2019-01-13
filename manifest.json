@@ -1,7 +1,7 @@
 {
     "name":"ForceCORS",
     "author":"Chris Deely",
-    "version":"1.3.0",
+    "version": "1.3.1",
     "description":"Allows forcing Cross-Origin Resource Sharing headers on any desired URL; helpful when accessing remote services from a local host.",
     "homepage_url":"https://github.com/chrisdeely/ForceCORS",
     "icons": { 
