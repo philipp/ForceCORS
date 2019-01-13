@@ -267,7 +267,7 @@ function storeAndAlert() {
         storeSiteSettings(currentSiteSettings);
         localStorage['displayInterceptCount'] = $('#displayCount').attr('checked') === 'checked';
 
-        chrome.extension.sendRequest('update', function(){
+        chrome.runtime.sendMessage('update', function(){
             renderSelectOptions();
             successAlert.show();
             successAlert.fadeOut(2500);

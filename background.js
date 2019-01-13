@@ -315,7 +315,7 @@ function init() {
 }
 
 //establish a listener to respond to changes from the Options page
-chrome.extension.onRequest.addListener(function (request_not_used, sender_not_used, sendResponse) {
+chrome.runtime.onMessage.addListener(function (request_not_used, sender_not_used, sendResponse) {
     //retrigger the init method to load the new settings
     init();
 
