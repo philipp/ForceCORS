@@ -1,0 +1,12 @@
+{
+  "addons": {
+    "{07036134-6446-46f9-8d0e-2d0c2aaeb0f1}": {
+      "updates": [
+        {
+          "version": "1.3.1",
+          "update_link": "https://brainglow-addons.s3.amazonaws.com/webextensions/forcecors/v1.3.1/forcecors-1.3.1.xpi"
+        }
+      ]
+    }
+  }
+}
