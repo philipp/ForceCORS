@@ -9,6 +9,10 @@
         {
           "version": "1.3.2",
           "update_link": "https://brainglow-addons.s3.amazonaws.com/webextensions/forcecors/v1.3.2/forcecors-1.3.2.xpi"
+        },
+        {
+          "version": "1.3.3",
+          "update_link": "https://brainglow-addons.s3.amazonaws.com/webextensions/forcecors/v1.3.3/forcecors-1.3.3.xpi"
         }
       ]
     }
