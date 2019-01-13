@@ -9,6 +9,12 @@
         "48": "images/Unlock16.png",
         "128": "images/Unlock16.png" 
     },
+  "applications": {
+    "gecko": {
+      "update_url": "https://brainglow-addons.s3.amazonaws.com/webextensions/forcecors/versions.json"
+    }
+  },
+
     "permissions":["webRequest", "webRequestBlocking",
         "http://*/*",
         "https://*/*"
